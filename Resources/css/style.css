@@ -1,0 +1,18 @@
+/*body*/
+body {
+      background-color: black;
+      color: white;
+      font-family: Verdana;
+      font-weight; normal;
+      text-align: center;
+}
+/*Primary header*/
+h1 {
+  font-size: 50px;
+  color: white;
+}
+/*link*/
+a.download {
+  font-size: 16px;
+  color: aquamarine;
+}
