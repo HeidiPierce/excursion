@@ -16,6 +16,20 @@ a.download {
   font-size: 16px;
   color: aquamarine;
 }
+/*Cellphone image*/
+video {
+  display: inline;
+  width: 404px;
+  height: 720px;
+  object-fit: contain;
+}
+/*Second heading*/
 h2 {
-  font-size: 10px;
+  font-size: 42px;
+  font-weight: 300;
+}
+/*Paragraph*/
+p {
+  font-size: 21px;
+  color: grey;
 }
