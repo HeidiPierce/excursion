@@ -23,13 +23,17 @@ video {
   height: 720px;
   object-fit: contain;
 }
-/*Second heading*/
+/*Second and third heading*/
 h2 {
   font-size: 42px;
-  font-weight: 300;
+  font-weight: 300px;
 }
 /*Paragraph*/
 p {
   font-size: 21px;
+  color: grey;
+}
+footer {
+  text-align: right;
   color: grey;
 }
