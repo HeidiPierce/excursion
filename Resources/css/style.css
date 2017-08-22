@@ -6,7 +6,7 @@ body {
       font-weight; normal;
       text-align: center;
 }
-/*Primary header*/
+/*primary header*/
 h1 {
   font-size: 50px;
   color: white;
@@ -16,23 +16,24 @@ a.download {
   font-size: 16px;
   color: aquamarine;
 }
-/*Cellphone image*/
+/*cellphone image*/
 video {
   display: inline;
   width: 404px;
   height: 720px;
   object-fit: contain;
 }
-/*Second and third heading*/
+/*second and third heading*/
 h2 {
   font-size: 42px;
   font-weight: 300px;
 }
-/*Paragraph*/
+/*paragraph*/
 p {
   font-size: 21px;
   color: grey;
 }
+/*footer*/
 footer {
   text-align: right;
   color: grey;
